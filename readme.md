@@ -7,7 +7,7 @@ Personal challenge to post every day a note about JS.
 
 | Day | Title      |
 | --- |:----------:|
-| 01 | [JS Drum Kit](day01/)|
+| 01 | [JS Drum Kit](01 - JavaScript Drum Kit/)|
 | 02 | [CSS + JS CLock](day02/)|
 | 03 | [Playing with CSS Variables and JS](day03/)|
 | 04 | [Array Cardio Day 1](day04/)|
