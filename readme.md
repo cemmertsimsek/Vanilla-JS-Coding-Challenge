@@ -9,7 +9,7 @@ Personal challenge to post every day a note about JS.
 | --- |:----------:|
 | 01 | [JS Drum Kit](01-JavaScript-Drum-Kit/)|
 | 02 | [CSS + JS CLock](02-JS-and-CSS-Clock/)|
-| 03 | [Playing with CSS Variables and JS](day03/)|
+| 03 | [Playing with CSS Variables and JS](03-CSS-Variables/)|
 | 04 | [Array Cardio Day 1](day04/)|
 | 05 | [Flex Panels Image Gallery](day05/)|
 | 06 | [Ajax Type Ahead](day06/)|
