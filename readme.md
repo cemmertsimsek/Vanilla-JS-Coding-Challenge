@@ -11,7 +11,7 @@ Personal challenge to post every day a note about JS.
 | 02 | [CSS + JS CLock](02-JS-and-CSS-Clock/)|
 | 03 | [Playing with CSS Variables and JS](03-CSS-Variables/)|
 | 04 | [Array Cardio Day 1](04-Array-Cardio-Day-1/)|
-| 05 | [Flex Panels Image Gallery](day05/)|
+| 05 | [Flex Panels Image Gallery](05-Flex-Panel-Gallery/)|
 | 06 | [Ajax Type Ahead](day06/)|
 | 07 | [Array Cardio Day 2](day07/)|
 | 08 | [Fun with HTML5 Canvas](day08/)|
