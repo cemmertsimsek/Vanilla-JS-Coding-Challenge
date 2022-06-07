@@ -12,10 +12,10 @@ Personal challenge to post every day a note about JS.
 | 03 | [Playing with CSS Variables and JS](03-CSS-Variables/)|
 | 04 | [Array Cardio Day 1](04-Array-Cardio-Day-1/)|
 | 05 | [Flex Panels Image Gallery](05-Flex-Panel-Gallery/)|
-| 06 | [Ajax Type Ahead](day06/)|
-| 07 | [Array Cardio Day 2](day07/)|
-| 08 | [Fun with HTML5 Canvas](day08/)|
-| 09 | [14 Must Know Dev Tools Trick](day09/)|
+| 06 | [Ajax Type Ahead](06-Type-Ahead/)|
+| 07 | [Array Cardio Day 2](07-Array-Cardio-Day-2/)|
+| 08 | [Fun with HTML5 Canvas](08-Fun-with-HTML5-Canvas/)|
+| 09 | [14 Must Know Dev Tools Trick](09-Dev-Tools-Domination/)|
 | 10 | [Hold Shift to Check Multiple Checkboxes](day10/)|
 | 11 | [Custom HTML5 Video Player](day11/)|
 | 12 | [Key Sequence Detection (KONAMI CODE)](day12/)|
